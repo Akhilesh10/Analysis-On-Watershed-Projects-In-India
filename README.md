@@ -62,7 +62,7 @@ The datasets cover:
 - `README.md` — Project overview, objectives, methodology, and findings.
 - `Watershed Project Presentation.pdf` — Project presentation and report.
 - `Graphs and Images/` — Charts, graphs, maps, and other project visualizations.
-- `Datasets/` — Relevant datasets used in the analysis.
+- `Datasets/` — Relevant datasets and scripts used in the analysis.
 
 ## Limitations and Future Scope
 
